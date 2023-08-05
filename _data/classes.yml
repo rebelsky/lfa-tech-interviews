@@ -1,0 +1,121 @@
+- topic: Getting started
+  abbrev: getting-started
+  summary: |
+    We consider the form and purpose of the course.  We consider the skills that technical interviews test.
+  subjects:
+    - "Visitor: Anthony D. Mays"
+    - About the course
+    - About technical interviews
+
+- topic: Clarifying the problem
+  abbrev: clarification
+  summary: |
+    We consider an important first step in technical interviews: Making sure that you understand the underlying problem (and, perhaps, its subtleties).
+  subjects:
+    - "Visitor: TBD"
+
+- topic: No Class (Sam at Tapia)
+  abbrev: cancelled-1
+  summary: |
+    We take a week off while Sam attends the CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing Conference.
+
+- topic: Thinking aloud
+  abbrev: thinking-aloud
+  summary: |
+    We consider a central skill in technical interviews: How you "think aloud" to share your ideas with your interviewer.
+  subjects:
+    - "Visitor: TBD"
+    - Communication
+    - Practice
+
+- topic: Writing tests
+  abbrev: testing
+  summary: |
+    We consider the role of tests in technical interviews and practice considering edge cases.
+  subjects:
+    - "Visitor: TBD"
+    - Ways to test
+    - Considering edge cases
+
+- topic: Debugging
+  abbrev: debugging
+  summary: |
+    We consider what to do when your code doesn't work.
+  subjects:
+    - "Visitor: TBD"
+    - The role(s) of decomposition
+    - The role(s) of testing
+    - Hand running code
+    - Debugging by printing
+    - Debugging tools
+
+- topic: Brainstorming approaches
+  abbrev: brainstorming
+  summary: |
+     To create an algorithm, you will often need to "brainstorm" the various ways you might approach the design of algorithms.
+  subjects:
+    - "Visitor: TBD"
+    - How do you solve problems?
+
+- topic: From algorithm to code
+  abbrev: coding
+  summary: |
+    We consider the steps you might take as you move from your initial algorithm to an implementation of it in a programming language.
+  subjects:
+    - "Visitor: TBD"
+    - Choosing a language
+    - Language features you should know cold
+
+- topic: Language features and other reasons to ask questions
+  abbrev: questions
+  summary: |
+    We revisit how much you need to know a programming language in the context of another important non-technical skill: asking questions.
+  subjects:
+    - "Visitor: TBD"
+    - Looking up language features
+    - Asking questions about language features
+    - Asking questions about design and approach
+    - Other kinds of questions
+
+- topic: Asymptotic analysis
+  abbrev: big-o
+  summary: |
+    We consider strategies for analyzing the asymptotic running time of algorithms.
+  subjects:
+    - "Visitor: TBD"
+    - Common running times
+    - Issues to remember
+
+- topic: Getting unstuck
+  abbrev: unstuck
+  summary: |
+    We consider what to do when you're "stuck" in designing an algorithm, translating the algorithm, finding errors, and such.
+  subjects:
+    - "Visitor: TBD"
+    - Tips and techniques
+    - Staying calm
+
+- topic: Practicing with HackerRank and other systems
+  abbrev: practice
+  summary: |
+    We consider the value of using systems like HackerRank to build our skill in software development and technical interviews
+  subjects:
+    - "Visitor: TBD"
+    - HackerRank and similar systems
+    - Preparing reusable libraries and templates
+
+- topic: System design interviews
+  abbrev: system-design
+  summary: |
+    We start to conclude the course by considering a different kind of technical interview, one that considers higher-level system design issues.
+  subjects:
+    - "Visitor: TBD"
+    - About system design interviews
+
+- topic: Wrapup, evaluate, and debrief
+  abbrev: wrapup
+  summary: |
+    We conclude the course.
+  subjects:
+    - "Visitor: TBD"
+    - Review of 

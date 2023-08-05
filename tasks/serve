@@ -1,0 +1,3 @@
+#!/bin/bash
+
+bundle exec jekyll serve --livereload --port 4281 --livereload_port 34281
