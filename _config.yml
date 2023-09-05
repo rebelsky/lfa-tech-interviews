@@ -42,6 +42,10 @@ collections:
   admin:
     output: false
 
+  eboards:
+    output: true
+    permalink: /eboards/:path.html
+
   exercises:
     output: true
     permalink: /exercises/:path.html
