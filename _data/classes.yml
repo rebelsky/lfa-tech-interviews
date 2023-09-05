@@ -6,6 +6,7 @@
     - "Visitor: Anthony D. Mays"
     - About the course
     - About technical interviews
+  notes: ../eboards/eboard01
 
 - topic: Clarifying the problem
   abbrev: clarification
@@ -16,6 +17,7 @@
     - Listening to problems
     - Parsing examples
     - Asking questions
+  notes: ../eboards/eboard02
 
 - topic: No Class (Sam at Tapia)
   abbrev: cancelled-1
@@ -27,7 +29,7 @@
   summary: |
     We consider a central skill in technical interviews: How you "think aloud" to share your ideas with your interviewer.
   subjects:
-    - "Visitor: TBD"
+    - "Visitor: Jonathan Wellons"
     - Communication
     - Practice
 
