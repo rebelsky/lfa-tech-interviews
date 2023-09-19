@@ -32,13 +32,14 @@
     - "Visitor: Jonathan Wellons"
     - Communication
     - Practice
+  notes: ../eboards/eboard04
 
 - topic: Writing tests
   abbrev: testing
   summary: |
     We consider the role of tests in technical interviews and practice considering edge cases.
   subjects:
-    - "Visitor: TBD"
+    - "Visitor: Halle Remash"
     - Ways to test
     - Considering edge cases
 
@@ -105,7 +106,7 @@
   summary: |
     We consider the value of using systems like HackerRank to build our skill in software development and technical interviews
   subjects:
-    - "Visitor: TBD"
+    - "Visitor: Lea Marolt Sonnenschein"
     - HackerRank and similar systems
     - Preparing reusable libraries and templates
 
