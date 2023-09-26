@@ -34,7 +34,7 @@
     - Practice
   notes: ../eboards/eboard04
 
-- topic: Writing tests
+- topic: Writing tests and getting unstuck
   abbrev: testing
   summary: |
     We consider the role of tests in technical interviews and practice considering edge cases.
@@ -42,6 +42,7 @@
     - "Visitor: Halle Remash"
     - Ways to test
     - Considering edge cases
+  notes: ../eboards/eboard05
 
 - topic: Debugging
   abbrev: debugging
