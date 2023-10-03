@@ -34,7 +34,7 @@
     - Practice
   notes: ../eboards/eboard04
 
-- topic: Writing tests and getting unstuck
+- topic: Writing tests (and getting unstuck)
   abbrev: testing
   summary: |
     We consider the role of tests in technical interviews and practice considering edge cases.
@@ -49,19 +49,20 @@
   summary: |
     We consider what to do when your code doesn't work.
   subjects:
-    - "Visitor: TBD"
+    - "Visitor: Sarah Barks, CLS"
     - The role(s) of decomposition
     - The role(s) of testing
     - Hand running code
     - Debugging by printing
     - Debugging tools
+  notes: ../eboards/eboard06
 
 - topic: Brainstorming approaches
   abbrev: brainstorming
   summary: |
      To create an algorithm, you will often need to "brainstorm" the various ways you might approach the design of algorithms.
   subjects:
-    - "Visitor: TBD"
+    - "Visitor: Alex Mitchell '17"
     - How do you solve problems?
 
 - topic: From algorithm to code
@@ -69,7 +70,7 @@
   summary: |
     We consider the steps you might take as you move from your initial algorithm to an implementation of it in a programming language.
   subjects:
-    - "Visitor: TBD"
+    - "Visitor: Cassie Koomjian"
     - Choosing a language
     - Language features you should know cold
 
@@ -89,7 +90,7 @@
   summary: |
     We consider strategies for analyzing the asymptotic running time of algorithms.
   subjects:
-    - "Visitor: TBD"
+    - "Visitor: Kay Spassaro"
     - Common running times
     - Issues to remember
 
