@@ -64,6 +64,7 @@
   subjects:
     - "Visitor: Alex Mitchell '17"
     - How do you solve problems?
+  notes: ../eboards/eboard07
 
 - topic: From algorithm to code
   abbrev: coding
