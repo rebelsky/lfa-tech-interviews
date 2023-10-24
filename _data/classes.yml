@@ -74,6 +74,7 @@
     - "Visitor: Cassie Koomjian"
     - Choosing a language
     - Language features you should know cold
+  notes: ../eboards/eboard08
 
 - topic: Language features and other reasons to ask questions
   abbrev: questions
@@ -126,5 +127,4 @@
   summary: |
     We conclude the course.
   subjects:
-    - "Visitor: TBD"
-    - Review of 
+    - Review of everything.
