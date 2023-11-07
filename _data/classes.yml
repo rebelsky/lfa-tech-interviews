@@ -86,6 +86,7 @@
     - Asking questions about language features
     - Asking questions about design and approach
     - Other kinds of questions
+  notes: ../eboards/eboard09
 
 - topic: Asymptotic analysis
   abbrev: big-o
@@ -95,6 +96,7 @@
     - "Visitor: Kay Spassaro"
     - Common running times
     - Issues to remember
+  notes: ../eboards/eboard10
 
 - topic: Getting unstuck
   abbrev: unstuck
