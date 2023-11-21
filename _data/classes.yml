@@ -103,9 +103,10 @@
   summary: |
     We consider what to do when you're "stuck" in designing an algorithm, translating the algorithm, finding errors, and such.
   subjects:
-    - "Visitor: TBD"
+    - "Visitor: Nope"
     - Tips and techniques
     - Staying calm
+  notes: ../eboards/eboard11
 
 - topic: Practicing with HackerRank and other systems
   abbrev: practice
