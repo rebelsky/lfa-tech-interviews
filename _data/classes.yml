@@ -116,6 +116,7 @@
     - "Visitor: Lea Marolt Sonnenschein"
     - HackerRank and similar systems
     - Preparing reusable libraries and templates
+  notes: ../eboards/eboard12
 
 - topic: System design interviews
   abbrev: system-design
